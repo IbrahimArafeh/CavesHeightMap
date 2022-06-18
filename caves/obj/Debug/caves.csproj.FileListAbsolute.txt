@@ -1,0 +1,8 @@
+C:\Projects\candidits\caves\caves\bin\Debug\caves.exe.config
+C:\Projects\candidits\caves\caves\bin\Debug\caves.exe
+C:\Projects\candidits\caves\caves\bin\Debug\caves.pdb
+C:\Projects\candidits\caves\caves\obj\Debug\caves.csproj.AssemblyReference.cache
+C:\Projects\candidits\caves\caves\obj\Debug\caves.csproj.SuggestedBindingRedirects.cache
+C:\Projects\candidits\caves\caves\obj\Debug\caves.csproj.CoreCompileInputs.cache
+C:\Projects\candidits\caves\caves\obj\Debug\caves.exe
+C:\Projects\candidits\caves\caves\obj\Debug\caves.pdb
