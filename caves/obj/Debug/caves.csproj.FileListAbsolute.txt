@@ -6,3 +6,11 @@ C:\Projects\candidits\caves\caves\obj\Debug\caves.csproj.SuggestedBindingRedirec
 C:\Projects\candidits\caves\caves\obj\Debug\caves.csproj.CoreCompileInputs.cache
 C:\Projects\candidits\caves\caves\obj\Debug\caves.exe
 C:\Projects\candidits\caves\caves\obj\Debug\caves.pdb
+C:\Projects\CavesHeightMap\caves\bin\Debug\caves.exe.config
+C:\Projects\CavesHeightMap\caves\bin\Debug\caves.exe
+C:\Projects\CavesHeightMap\caves\bin\Debug\caves.pdb
+C:\Projects\CavesHeightMap\caves\obj\Debug\caves.csproj.AssemblyReference.cache
+C:\Projects\CavesHeightMap\caves\obj\Debug\caves.csproj.SuggestedBindingRedirects.cache
+C:\Projects\CavesHeightMap\caves\obj\Debug\caves.csproj.CoreCompileInputs.cache
+C:\Projects\CavesHeightMap\caves\obj\Debug\caves.exe
+C:\Projects\CavesHeightMap\caves\obj\Debug\caves.pdb
